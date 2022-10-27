@@ -1,0 +1,25 @@
+body {
+  margin: 0%;
+}
+li {
+  margin: 0%;
+  width: 100%;
+  height: 200%;
+  text-align: center;;
+  background-color: black;
+  color: yellow;
+  
+}
+a {
+  color: whitesmoke;
+  font-size: 25px;
+}
+iframe {
+  margin: 0;
+  position:fixed;
+  top: 50;
+  left: 50;
+  width: 250%;
+  height: 100%;
+  border:0;
+}
